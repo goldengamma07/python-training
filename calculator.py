@@ -1,6 +1,8 @@
 data1 = int( input("enter the value of a:"))
 print("a=",data1)
 
+
+
 data2 = int(input("enter the value of b:"))
 print("b=",data2)
 
